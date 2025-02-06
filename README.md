@@ -1,5 +1,5 @@
 
-This project is a simple clone of the popular word-guessing game built with React for the first time. This was my first real dive into React, and although the code is bloated and messy (as I was still learning!), it’s a good snapshot of my early journey into web development.
+This project is a simple clone of the popular word-guessing game built with React .  It’s a good snapshot of my early journey into web development.
 
 The game follows the same mechanics as Wordle: you must guess a 5-letter word in 6 tries, with feedback after each guess that tells you which letters are correct or in the wrong position.
 ## ✨ Features
@@ -20,12 +20,13 @@ The game follows the same mechanics as Wordle: you must guess a 5-letter word in
 - **CSS**: Styled the game with a simple, clean layout inspired by the original Wordle.
 - **Node.js (with npm)**: Managed dependencies and built the project.
 
-**Wordle Clone** is a simple version of the popular word-guessing game built with **React** for the first time. This was my first real dive into React, and although the code is bloated and messy (as I was still learning!), it’s a good snapshot of my early journey into web development. The game follows the same mechanics as Wordle, you must guess a 5-letter word in 6 tries, with feedback after each guess that tells you which letters are correct or in the wrong position
 
  simple steps to run this game in your commmand prompt
+
    npm install
 
    npm run dev 
+   
 
 ## 🎮 Play the Game  
 You can try the game [here!]
